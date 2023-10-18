@@ -7,5 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="github.cloudyrock.mongock.mongodb.sync.v4.driver" level="application" />
+    <orderEntry type="library" name="io.mongock.mongodb.sync.v4.driver" level="application" />
+    <orderEntry type="library" name="mongodb.driver.sync" level="application" />
+    <orderEntry type="library" name="datastax.oss.java.driver.core" level="application" />
+    <orderEntry type="library" name="mongodb.driver.core" level="application" />
   </component>
 </module>
